@@ -1,0 +1,103 @@
+# Copyright (C) 2012 WP No-Bot Question
+# This file is distributed under the same license as the WP No-Bot Question package.
+msgid ""
+msgstr ""
+"Project-Id-Version: WP No-Bot Question 0.1.2\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/wp_nobot_question\n"
+"POT-Creation-Date: 2013-01-01 01:55:10+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2013-04-22 08:15+0200\n"
+"Last-Translator: \n"
+"Language-Team: http://avrio.blogspot.com/ <ifaist0s@gmail.com>\n"
+"X-Generator: Poedit 1.5.5\n"
+"Language: Greek\n"
+
+#: wp_nobot_question.php:113
+msgid "Required"
+msgstr "Απαιτείται"
+
+#: wp_nobot_question.php:135
+msgid "Error: Please fill in the required question."
+msgstr "Σφάλμα: Παρακαλώ συμπληρώστε τα απαιτούμενα πεδία"
+
+#: wp_nobot_question.php:145
+msgid "Error: Please fill in the correct answer to the question."
+msgstr "Σφάλμα: Παρακαλώ συμπληρώστε τη σωστή απάντηση."
+
+#: wp_nobot_question.php:175
+msgid "Question to present to bot"
+msgstr "Ερώτηση που θα προβληθεί"
+
+#: wp_nobot_question.php:177
+msgid "Type here to add a new question"
+msgstr "Εισάγετε εδώ τη νέα ερώτηση"
+
+#: wp_nobot_question.php:177
+msgid "Delete Question"
+msgstr "Διαγραφή ερώτησης"
+
+#: wp_nobot_question.php:181
+msgid "Possible Answers"
+msgstr "Πιθανές απαντήσεις"
+
+#: wp_nobot_question.php:188 wp_nobot_question.php:270
+msgid "Delete"
+msgstr "Διαγραφή"
+
+#: wp_nobot_question.php:194
+msgid "Add New"
+msgstr "Προσθήκη νέας"
+
+#: wp_nobot_question.php:222
+msgid "WP No-Bot Question settings updated."
+msgstr "Οι ρυθμίσεις του WP No-Bot Question ενημερώθηκαν"
+
+#: wp_nobot_question.php:238
+msgid "Enable WP No-Bot Question"
+msgstr "Ενεργοποίηση του WP No-Bot Question"
+
+#: wp_nobot_question.php:241
+msgid "Yes"
+msgstr "Ναι"
+
+#: wp_nobot_question.php:242
+msgid "No"
+msgstr "Όχι"
+
+#: wp_nobot_question.php:247
+msgid "Protect the registration page too?"
+msgstr "Προστασία σελίδας εγγραφής;"
+
+#: wp_nobot_question.php:256
+msgid "Questions to present to bot"
+msgstr "Ερωτήσεις που θα προβληθούν"
+
+#: wp_nobot_question.php:270
+msgid "Enter a new answer here"
+msgstr "Εισάγετε εδώ μια νέα απάντηση"
+
+#. Plugin Name of the plugin/theme
+msgid "WP No-Bot Question"
+msgstr "WP No-Bot Question"
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.compdigitec.com/apps/wpnobot/"
+msgstr "http://www.compdigitec.com/apps/wpnobot/"
+
+#. Description of the plugin/theme
+msgid ""
+"Simple question that blocks most spambots (and paid robots) by making them "
+"answer a common sense question"
+msgstr ""
+"Απλή ερώτηση που αποκόπτει τα περισσότερα spambots (και πληρωμένα ρομπότ) "
+"αναγκάζοντάς τα να απαντήσουν σε μια ερώτηση κοινής λογικής"
+
+#. Author of the plugin/theme
+msgid "Compdigitec"
+msgstr "Compdigitec"
+
+#. Author URI of the plugin/theme
+msgid "http://www.compdigitec.com/"
+msgstr "http://www.compdigitec.com/"
